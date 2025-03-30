@@ -1,8 +1,8 @@
 # Classroom Management System
 
 ## Description
-The Classroom Management System is a software application designed to streamline and automate various administrative tasks related to managing classrooms in a college setting. It provides a centralized platform for teachers, students, and administrators to efficiently manage class schedules, attendance, assignments, grades, and communication.
-
+ Developed a facial recognition-based automated attendance system for accurate student tracking, integrated with secure login features for both teachers and students. Implemented
+ seamless communication channels between students and faculty, along with the ability to store assignments, documents, and exam results.
 ## Features
 - User-friendly interface for easy navigation and usage
 - Secure authentication and access control for different user roles
