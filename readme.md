@@ -4,8 +4,8 @@
  Developed a facial recognition-based automated attendance system for accurate student tracking, integrated with secure login features for both teachers and students. Implemented seamless communication channels between students and faculty, along with the ability to store assignments, documents, and exam results.
 
 ## 📢 Explore More on LinkedIn!
-Check out our detailed project insights, media, and updates on LinkedIn. Click the link below to learn more about IntelliTeach and see it in action!
-
+Check out our detailed project insights, media, and updates on LinkedIn <b>project section</b> . Click the link below to learn more about IntelliTeach and see it in action!
+https://www.linkedin.com/in/hanssaini2005/
 ## Features
 - User-friendly interface for easy navigation and usage
 - Secure authentication and access control for different user roles
