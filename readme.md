@@ -1,8 +1,11 @@
 # Classroom Management System
 
 ## Description
- Developed a facial recognition-based automated attendance system for accurate student tracking, integrated with secure login features for both teachers and students. Implemented
- seamless communication channels between students and faculty, along with the ability to store assignments, documents, and exam results.
+ Developed a facial recognition-based automated attendance system for accurate student tracking, integrated with secure login features for both teachers and students. Implemented seamless communication channels between students and faculty, along with the ability to store assignments, documents, and exam results.
+
+## 📢 Explore More on LinkedIn!
+Check out our detailed project insights, media, and updates on LinkedIn. Click the link below to learn more about IntelliTeach and see it in action!
+
 ## Features
 - User-friendly interface for easy navigation and usage
 - Secure authentication and access control for different user roles
