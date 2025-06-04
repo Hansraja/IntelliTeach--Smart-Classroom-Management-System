@@ -110,11 +110,11 @@ WSGI_APPLICATION = 'IgCMS.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': '',
-        'USER': '',
-        'PASSWORD': '',
-        'HOST': '',
-        'PORT': '',
+        'NAME': 'IntelliTeach',
+        'USER': 'hans',
+        'PASSWORD': 'hanssaini',
+        'HOST': 'localhost',
+        'PORT': '5432',
     }
 }
 # DEFAULT_FILE_STORAGE = 'Admin.storage.CustomFileSystemStorage'

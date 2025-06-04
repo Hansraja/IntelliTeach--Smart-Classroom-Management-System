@@ -254,3 +254,18 @@ img {
     display: block !important;
     visibility: visible !important;
 }
+
+
+@media (min-width: 768px) {
+    .the_sidecar {
+        width: 60% !important;
+    }
+}
+
+.cont3 {
+    width: 200px !important;
+    height: 220px !important;
+    justify-content: center;
+    align-items: center;
+    display: flex ;
+}
