@@ -1,4 +1,4 @@
-5000# Classroom Management System
+# Classroom Management System
 
 ## Description
  Developed a facial recognition-based automated attendance system for accurate student tracking, integrated with secure login features for both teachers and students. Implemented seamless communication channels between students and faculty, along with the ability to store assignments, documents, and exam results.
